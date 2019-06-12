@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*rollback*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,5 +15,6 @@
     <mask>sys_index_f*</mask>
     <mask>*.js</mask>
     <mask>fix_*</mask>
+    <mask>*rollback*</mask>
   </component>
 </application>
